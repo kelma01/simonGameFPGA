@@ -1,2 +1,3 @@
 # simonGameFPGA
-While taking "Logic Circuit Design" course, I have developed a game called "Simon" that can be played on FPGA Card
+
+To test this code, you need to use verilog language and have a FPGA card.
